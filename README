@@ -4,7 +4,8 @@
 
 ## 🔍 Project Overview
 
-This project analyzes e-commerce data to uncover insights into sales performance, customer behavior, and regional trends.  
+This project analyzes e-commerce data to uncover insights into sales performance, customer behavior, and regional trends.
+
 The analysis is performed using *Microsoft Excel* and *Power Query* for data cleaning, transformation, and visualization.
 
 ---
@@ -20,9 +21,9 @@ The analysis is performed using *Microsoft Excel* and *Power Query* for data cle
 
 ## 🛠️ Tools & Technologies
 
-- 📊 Microsoft Excel (Data Cleaning & Analysis)  
-- 🔄 Power Query (Data Transformation)  
-- 📈 Data Visualization  
+- Microsoft Excel (Data Cleaning & Analysis)  
+- Power Query (Data Transformation)  
+- Data Visualization  
 
 ---
 
