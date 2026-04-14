@@ -20,13 +20,12 @@ This project focuses on analyzing e-commerce data to uncover key business insigh
   
 ## 📁 Dataset
  
-The dataset includes e-commerce transaction data such as:
+The dataset includes:
  
-- Orders
-- Customers
-- Products
-- Sales
-- Regions
+- Customer Data
+- Product Data
+- Store Data
+- Sales Data
   
 ## 📊 Key Insights
  
@@ -42,6 +41,10 @@ The dataset includes e-commerce transaction data such as:
 3. Exploratory Data Analysis (EDA)
 4. Dashboard Creation in Excel
   
+## 📷 Dashboard Preview
+
+![E-commerce Dashboard](E-commerce%20Dashboard.png)
+  
 ## 📈 Results
  
 The project provides clear insights into sales performance and customer behavior, helping businesses make data-driven decisions.
@@ -55,3 +58,4 @@ The project provides clear insights into sales performance and customer behavior
 ## 📬 Contact
  
 Feel free to connect with me for feedback or collaboration!
+
